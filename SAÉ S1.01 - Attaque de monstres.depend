@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1637928556 source:d:\cours\s1.01\saÉ s1.01 - attaque de monstres\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"entetes.h"
+
+1637615014 source:d:\cours\s1.01\saÉ s1.01 - attaque de monstres\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entetes.h"
+
+1637313696 d:\cours\s1.01\saÉ s1.01 - attaque de monstres\entetes.h
+	<stdio.h>
+
+1634822122 d:\cours\s1.01\saÉ s1.01 - attaque de monstres\tad.c
+	<stdio.h>
+	<stdlib.h>
+	"entetes.h"
+
+1637928644 source:d:\cours\s1.01\saÉ s1.01 - attaque de monstres\tad.c
+	<stdio.h>
+	<stdlib.h>
+	"entetes.h"
+
+1634821636 source:d:\cours\s1.01\saÉ s1.01 - attaque de monstres\test.c
+	<stdio.h>
+	<stdlib.h>
+
+1637239962 source:d:\cours\s1.01\saÉ s1.01 - attaque de monstres\gestiongrille.c
+	<stdio.h>
+	<stdlib.h>
+	"entetes.h"
+
